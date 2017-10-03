@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".screen.home.HomeActivity"
+            android:name=".screen."
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme"/>
     </application>
